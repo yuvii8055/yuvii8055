@@ -1,4 +1,6 @@
 # Hi there! 👋
 
 ### My LeetCode Statistics:
-[![Leetcode Stats](https://jacoblin.cool)](https://leetcode.com)
+<a href="https://leetcode.com">
+  <img src="https://vercel.app" alt="LeetCode Profile Card" />
+</a>
