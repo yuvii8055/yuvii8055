@@ -19,3 +19,9 @@ I'm a passionate developer blurring the lines between software and hardware. Whe
 - ⚡ Fun Fact: I believe the best code is like a good physics formula—elegant, optimized, and perfectly balanced.
 
 📫 **Let's connect and build something awesome!**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yuvi8055&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yuvi8055&layout=compact&theme=radical&hide_border=true)\
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yuvi8055&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvi8055&layout=compact&theme=radical&hide_border=true" />
+</p>
