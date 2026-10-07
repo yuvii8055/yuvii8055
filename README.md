@@ -1,4 +1,21 @@
-# Hi And welcome!!!
+# Hi there, I'm Yuvaraj! 👋🚀
 
-### My LeetCode Statistics:
-<img src="https://jacoblin.cool" alt="LeetCode Stats" width="400" />
+**AI & ML Engineering Undergrad @ DSATM**
+
+I'm a passionate developer blurring the lines between software and hardware. Whether I'm building Python-based AI voice assistants, designing smart Arduino IoT systems, or grinding out optimized algorithmic solutions, I love tackling complex problems from the ground up. 
+
+### 🛠️ Tech Stack & Arsenal
+- **Languages:** Python, Java, C, C++
+- **Hardware & IoT:** Arduino Uno, ESP32, Sensor Integration
+- **Core Focus:** Artificial Intelligence, Machine Learning, Algorithmic Problem Solving
+
+### 🚀 What I'm Building
+- 🌱 Engineering automated, hardware-integrated IoT solutions (like autonomous tracking systems).
+- 💡 Exploring local AI chatbots using Ollama, Streamlit, and edge-tts.
+- ⚔️ Constantly sharpening my data structures and algorithmic efficiency on LeetCode.
+
+### ⚡ Quick Stats
+- 🔭 Always looking to collaborate on hackathons and open-source AI projects.
+- ⚡ Fun Fact: I believe the best code is like a good physics formula—elegant, optimized, and perfectly balanced.
+
+📫 **Let's connect and build something awesome!**
